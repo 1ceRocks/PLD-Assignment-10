@@ -7,10 +7,7 @@ Personal Information
     Age             : 22
     Birthdate       : January 1, 2000
     Home Address    : 310 San Rafael Street, San Miguel 1005, Manila City
-
-Contact Information
     Phone Number    : 0912-345-6789
-    Landline Number : (1)234-5678
     Electronic Mail : fcv1995@yahoo.com
 
 Medical Information
@@ -21,55 +18,12 @@ Medical Information
     Condition (Now) : None
 
 Vaccination Report
-    Fully Vaccinated? (Maximum of Two (2) Dose) If YES, select the brand you received and include the date and place; if NO, please specify.
+    Fully Vaccinated? (Maximum of Two (2) Dose)
         > June 6, 2021     : Sinovac-CoronaVac (Manila Sports Complex)
         > July 6, 2021     : Sinovac-CoronaVac (Manila Sports Complex)
 
-    Already had a BOOSTER Vaccine? If YES, select the brand you received and include the date and place; if NO, please specify.
+    Already had a BOOSTER Vaccine?
         > January 15, 2022 : BioNTech, Pfizer  (Manila Sports Complex)
-
-    Blood Pressure Timeline
-        First Dose   : 130 / 90
-        Second Dose  : 120 / 80
-        Booster Dose : 130 / 70
-    
-    Heart Rate Timeline
-        First Dose   : 67 BPM
-        Second Dose  : 71 BPM
-        Booster Dose : 68 BPM
-
-COVID-19 Tracing Data
-    History of COVID-19 Infection (Antigen + RT-PCR Test)
-        > DNA = NEGATIVE
-    History of anaphylaxis or a severe hypersensitivity reaction during previous immunization 
-    aside from COVID-19 Vaccination
-        > NONE
-    Side effects of COVID-19 present in the last working 7-14 days? If YES, type the specific condition; otherwise, specify NONE.
-        > Headache, Asthenia, Tiredness, and Mild Fever
-
-Common Medical Checkups (YES / NO)
-    Receipt of any medication intended to prevent COVID?
-        > NO
-    Previous vaccination with a coronavirus vaccine?
-        > YES
-    Received any vaccine aside from COVID-19 vaccine?
-        > NO
-    Receipt of immunoglobulins (tetanus and rabies immunoglobulin)?
-        > NO
-    Previous blood transfusion?
-        > NO
-    Oxygen Saturation (SPO2)?
-        > NO
-    Receiving steroids or chemotherapy? Select if BOTH, choose either on ONE, or specify NO if not.
-        > NO
-    Bleeding disorder or prior history of significant bleeding or bruising following intramuscular-
-    injections or venipuncture (e.g. to draw blood for tests)?
-        > NO
-        When?
-            > N/A
-    Asplenia (Absence of Spleen)?
-        > NO
-    On Maintenance Drugs? If YES, type the specific medicine; otherwise, specify NO.
-        > Clobetasol Propionate
-    Other Disorders? If YES, specify ONE or MORE; if not, specify NO.
-        > NO
+ 
+Date Tracking Record: 01:38 
+Time Tracking Record: February 15, 2022
