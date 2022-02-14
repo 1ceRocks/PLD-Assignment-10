@@ -15,7 +15,7 @@ def time_registry(icon):
         datezone = local_time.strftime("%H:%M")
         timezone = local_time.strftime("%B %d, %Y")
         with open(details, "w") as update:
-            update.write(TxtBCHFile + (f"\n \nDate Tracking Record: {datezone} \nTime Tracking Record: {timezone}"))
+            update.write(TxtBCHFile + (f"\n>>> REAL-TIME MANAGEMENT SYSTEM <<< \nDate Tracking Record: {datezone} \nTime Tracking Record: {timezone}"))
     return icon
 
 def webcamExtract():
