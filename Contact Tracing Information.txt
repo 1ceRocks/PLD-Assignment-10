@@ -24,6 +24,6 @@ Vaccination Report
 
     Already had a BOOSTER Vaccine?
         > January 15, 2022 : BioNTech, Pfizer  (Manila Sports Complex)
- 
-Date Tracking Record: 01:38 
+>>> REAL-TIME MANAGEMENT SYSTEM <<< 
+Date Tracking Record: 01:47 
 Time Tracking Record: February 15, 2022
