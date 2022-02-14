@@ -26,5 +26,5 @@ Vaccination Report
         > January 15, 2022 : BioNTech, Pfizer  (Manila Sports Complex)
 
 >>> REAL-TIME MANAGEMENT SYSTEM <<< 
-Date Tracking Record: 01:50
-Time Tracking Record: February 15, 2022
+Date Tracking Record: February 15, 2022
+Time Tracking Record: 02:29
