@@ -56,11 +56,11 @@ Medical Information
     Condition (Now) : None
 
 Vaccination Report
-    Fully Vaccinated? (Maximum of Two (2) Dose) If YES, select the brand you received and include the date and place; if NO, please specify.
+    Fully Vaccinated? (Maximum of Two (2) Dose)
         > June 6, 2021     : Sinovac-CoronaVac (Manila Sports Complex)
         > July 6, 2021     : Sinovac-CoronaVac (Manila Sports Complex)
 
-    Already had a BOOSTER Vaccine? If YES, select the brand you received and include the date and place; if NO, please specify.
+    Already had a BOOSTER Vaccine?
         > January 15, 2022 : BioNTech, Pfizer  (Manila Sports Complex)"""
 
 encode.add_data(details)
