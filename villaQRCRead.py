@@ -12,9 +12,9 @@ def time_registry(icon):
     for info in BCHScan:
         a, b, c, d = info.rect # Settling up global parameters for the Font Layout on the Live Webcam.
         TxtBCHFile = info.data.decode('utf-8') # ASCII Standard Unicode Character
-        cv2.rectangle(icon, (a, b),(a+c, b+d), (0, 0, 255), 3) # ASCII Font Density
+        cv2.rectangle(icon, (a, b),(a+c, b+d), (0, 255, 0), 3) # ASCII Font Density
         TxtFont = cv2.FONT_HERSHEY_COMPLEX_SMALL # Modifying Font Type
-        cv2.putText(icon, TxtBCHFile, (a + 10, b - 10), TxtFont, 1.0, (255, 255, 255), 2) # Layout and Text Color for the Font Presets.
+        cv2.putText(icon, TxtBCHFile, (a + 10, b - 10), TxtFont, 1.0, (255, 0, 0), 2) # Layout and Text Color for the Font Presets.
         """
         TEXT FILE WITHIN THE SAME FOLDER HAS THE AUTHORIZATION TO GET OVERWRITTEN.
         """
